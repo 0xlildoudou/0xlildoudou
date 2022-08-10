@@ -1,3 +1,6 @@
 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lil-doudou)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lil-doudou)](https://github.com/anuraghazra/github-readme-stats)
+
+<img align="left" width=50%
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lil-doudou&langs_count=10&layout=compact" />
+<img align="right" width=50%
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lil-doudou)" />
